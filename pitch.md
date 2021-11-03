@@ -28,20 +28,20 @@ Future Goal:
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-## Project 2: Space invadors GUI Game
+## Project 2: PyArcade Games
 
-Space Invaders is a shooting arcade game , The objective of the game is to pan across a screen and shoot descending swarms of aliens, preventing them from reaching the bottom of the screen, the idea of our project is to is to build a GUI pythonic game that any player can play It.
+ A collection of CLI games that the user can select from variety of games to play, the idea of our project is to is to build a pythonic multiple Pythonic games with single Interface.
 
 Problem domain is software development skills improvment by implementing a game using pythonic style
 
+Games list are
+Hangman
+QuizGame
+SnakeGame
+TicTacToe
+
 MVP : 
 
-* We expect that we will implement a fully playable game with a great user experince that when the user play it.
+* We expect that we will implement a fully playable games with a great user experince that when the user play it.
 
-* We expect we have a game with a user selection of difficulties easy, medium and hard.
-
-* we expect to have highly intelligent npcs (are friendly automated non-player characters that provide services to players.) and bosses(a significant computer-controlled enemy.) 
-
-Future Goal:
-
-* We expect our project will be a core of bigger idea to inforce the game by the computer for getting a highest score when the computer play the game alone as a future goal to make our game intellegance using reinforcement learning
+* We expect we have a user command line interface asking the user to select a game to play from a provided list.
